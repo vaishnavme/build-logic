@@ -133,3 +133,18 @@
 // checkNumber(21)
 
 //----------------------------------------------------------------------
+// 06. Print the 
+// const loop = () => {
+//     let str = ""
+//     for(let i = 1; i < 5 ;i++) {
+//         for(let j = 1; j < 5; j++) {
+//            if (i >= j) {
+//                str = str.concat("#")
+//            }
+//         }
+//         str = str.concat("\n")
+//     }
+//     return str
+// }
+
+// console.log(loop())
