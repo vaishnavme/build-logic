@@ -148,3 +148,16 @@
 // }
 
 // console.log(loop())
+
+//----------------------------------------------------------------------
+// 07. Write a program to take a day as an input and determine whether it is a weekday or weekend. Example: Tuesday is weekday.
+
+// const days = (day) => {
+//     if(day.toUpperCase() === "SATURDAY" || day.toUpperCase() === "SUNDAY") {
+//         console.log("Weekend")
+//     } else {
+//     console.log("Weekdays")
+//     }
+// }
+
+// days("sunday")
