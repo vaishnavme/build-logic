@@ -128,6 +128,17 @@
 //     return char
 // }
 // console.log(charPosition("neoGcamp", 4))
+//-----------------------------------------------------------------------------------------
+// 06 Given two dates, your function should return which one comes before the other.  
+//**Example:**  
+//**Input:** `minDate('02/05/2021', ' 24/01/2021')Output: 24/01/2021
+
+// const minDate = (inDate1, inDate2) => {
+//     let date1 = new Date(inDate1.split("/").join("-"));
+//     let date2 = new Date(inDate2.split("/").join("-"));
+//     return date1 < date2 ? inDate1 : inDate2
+// }
+// console.log(minDate('02/05/2021', '24/01/2021'))
 
 //-----------------------------------------------------------------------------------------
 
@@ -183,3 +194,18 @@
 // }
 
 // console.log(encodeString("neogcamp", 2))
+
+//-----------------------------------------------------------------------------------------
+//Given a sentence, your function should reverse the order of characters in each word, keeping same sequence of words.  
+//**Example:**  
+//**Input:** `reverseCharactersOfWord('we are neoGrammers')` –––> **Output:** `ew era sremmarGoen`
+
+// const reverseCharactersOfWord = (str) => {
+//     let words = str.split(" ");
+//     let output = "";
+//     for (word of words) {
+//       output += word.split("").reverse().join("") + " ";
+//     }
+//     return output;
+//   }
+//   console.log(reverseCharactersOfWord("we are neoGrammers"));
