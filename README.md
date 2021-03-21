@@ -11,3 +11,10 @@ This guide will be most useful if you have done my courses, every idea is based 
 - These ideas are not to be taken as a stand alone app. For an internship, these apps might look good on your portfolio, but for full time jobs these are not the app ideas you would want to build. 
 
 - Aim is to get you more practice. Focus is more on basics. Try to do these yourself and if you need help our [Discord server](https://bit.ly/tanaydiscrod) is always there with 5000+ beginner and intermediate programmers like you hanging out together. 
+
+(Operators, Branching, Loops)[https://github.com/vaishnavme/build-logic/tree/main/01_operator-branching-loop]
+(Functions)[https://github.com/vaishnavme/build-logic/tree/main/02_functional]
+(Numbers)[https://github.com/vaishnavme/build-logic/tree/main/03_numbers]
+(Strings)[https://github.com/vaishnavme/build-logic/tree/main/04_strings]
+(Arrays)[https://github.com/vaishnavme/build-logic/tree/main/05_array]
+(Objects and Oops)[https://github.com/vaishnavme/build-logic/tree/main/06_object]
